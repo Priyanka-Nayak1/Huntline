@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+*.log
+.DS_Store
+backend/storage/reports/*
+backend/storage/resumes/*
+!backend/storage/reports/.gitkeep
+!backend/storage/resumes/.gitkeep
+frontend/dist
